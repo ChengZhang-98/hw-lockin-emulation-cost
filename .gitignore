@@ -1,0 +1,12 @@
+/.vscode/
+
+# python
+__pycache__/
+
+# wandb
+wandb/
+checkpoints/
+
+# backup
+local_backup/
+scratchpad/
